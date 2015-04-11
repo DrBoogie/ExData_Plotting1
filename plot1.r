@@ -14,3 +14,5 @@ data$Datetime <- as.POSIXct(datetime)
 ## This is Plot 1
 hist(data$Global_active_power, main="Global Active Power", 
 xlab="Global Active Power (kilowatts)", ylab="Frequency", col="Red")
+
+
